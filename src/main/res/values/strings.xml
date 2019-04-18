@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CurbIT</string>
+    <string name="daily_stats">Today</string>
+    <string name="yesterday_stats">Yesterday</string>
+    <string name="weekly_stats">Week</string>
+    <string name="monthly_stats">Month</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="blockicon">Block</string>
+    <string name="info">Info</string>
+
+    <string name="no_data">Select apps from Settings screen to view its usage info</string>
+
+    <!--<string name="adUnitId">ca-app-pub-3912594581926590/5234837081</string>-->
+
+    <string name="app">App</string>
+    <string name="network">Network</string>
+    <string name="block">Block App</string>
+    <string name="network_stats">Network Stats</string>
+    <string name="networks_stats_na">Sorry. This feature is not available for you Android Version.</string>
+</resources>
